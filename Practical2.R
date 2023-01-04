@@ -1,6 +1,6 @@
 data("AirPassengers")
 class(AirPassengers)
-Start(AirPassengers)
+start(AirPassengers)
 end(AirPassengers)
 frequency(AirPassengers)
 summary(AirPassengers)
